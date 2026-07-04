@@ -1,5 +1,7 @@
-# cmd-jq
+[![actions](https://github.com/gloo-foo/cmd-jq/actions/workflows/actions.yml/badge.svg)](https://github.com/gloo-foo/cmd-jq/actions/workflows/actions.yml)
+[![ci](https://github.com/gloo-foo/cmd-jq/actions/workflows/ci.yml/badge.svg)](https://github.com/gloo-foo/cmd-jq/actions/workflows/ci.yml)
+[![docs](https://github.com/gloo-foo/cmd-jq/actions/workflows/docs.yml/badge.svg)](https://github.com/gloo-foo/cmd-jq/actions/workflows/docs.yml)
+[![go](https://github.com/gloo-foo/cmd-jq/actions/workflows/go.yml/badge.svg)](https://github.com/gloo-foo/cmd-jq/actions/workflows/go.yml)
+[![release](https://github.com/gloo-foo/cmd-jq/actions/workflows/release.yml/badge.svg)](https://github.com/gloo-foo/cmd-jq/actions/workflows/release.yml)
 
-[![CI](https://github.com/gloo-foo/cmd-jq/actions/workflows/ci.yml/badge.svg)](https://github.com/gloo-foo/cmd-jq/actions/workflows/ci.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/gloo-foo/cmd-jq.svg)](https://pkg.go.dev/github.com/gloo-foo/cmd-jq)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[docs](https://gloo-foo.github.io/docs.framework/)
